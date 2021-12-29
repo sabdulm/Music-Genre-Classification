@@ -1,9 +1,5 @@
 # Music Genre Classification
 
-Sheikh Mannan<br/>
-sheikh.mannan@colostate.edu<br/>
-CSU CS-542<br/>
-Project Report<br/>
 
 ## Introduction
 
